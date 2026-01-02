@@ -8,16 +8,19 @@
       <title>Version 1.0.214 – Bug fixes & improvements</title>
       <sparkle:version>1.0.214</sparkle:version>
       <description>
-        New features and bug fixes for both Android and iOS users.
+        Crash fixes and UI improvements for Android and iOS users.
       </description>
+
+      <!-- Android store link -->
       <enclosure
-          url="https://play.google.com/store/apps/details?id=com.hashtag.steel" 
+          url="https://play.google.com/store/apps/details?id=com.hashtagsteel.buyer"
           sparkle:platform="android" />
+
+      <!-- iOS store link -->
       <enclosure
-          url="https://apps.apple.com/app/com.hashtag.steel"
+          url="https://apps.apple.com/app/idcom.hashtagsteel.iosbuyer"
           sparkle:platform="ios" />
     </item>
 
   </channel>
 </rss>
-
