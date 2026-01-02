@@ -14,12 +14,12 @@
       <!-- Android store link -->
       <enclosure
           url="https://play.google.com/store/apps/details?id=com.hashtag.steel"
-          sparkle:platform="android" />
+          sparkle:platform="android"/>
 
       <!-- iOS store link -->
       <enclosure
           url="https://apps.apple.com/in/app/hashtagsteel/id6476484325"
-          sparkle:platform="ios" />
+          sparkle:platform="ios"/>
     </item>
 
   </channel>
