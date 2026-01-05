@@ -2,25 +2,27 @@
 <rss version="2.0"
  xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>HashtagSteel Mandatory Update</title>
+    <title>HashtagSteel App Updates</title>
 
+    <!-- ANDROID -->
     <item>
-      <title>Mandatory Update Required</title>
-
-      <!-- VERY HIGH VERSION -->
-      <sparkle:version>999.0.0</sparkle:version>
-
+      <title>Android Update Available</title>
+      <sparkle:version>1.0.216</sparkle:version>
       <description>
-        A new version of the app is available.
-        Please update to continue using the app.
+        Please update the Android app to continue.
       </description>
-
-      <!-- Android -->
       <enclosure
         url="https://play.google.com/store/apps/details?id=com.hashtag.steel"
         sparkle:platform="android"/>
+    </item>
 
-      <!-- iOS -->
+    <!-- IOS -->
+    <item>
+      <title>iOS Update Available</title>
+      <sparkle:version>1.0.38</sparkle:version>
+      <description>
+        Please update the iOS app to continue.
+      </description>
       <enclosure
         url="https://apps.apple.com/in/app/hashtagsteel/id6476484325"
         sparkle:platform="ios"/>
