@@ -7,7 +7,7 @@
     <!-- ANDROID -->
     <item>
       <title>Android Update Available</title>
-      <sparkle:version>1.0.216</sparkle:version>
+      <sparkle:version>1.0.214</sparkle:version>
       <description>
         Please update the Android app to continue.
       </description>
@@ -19,7 +19,7 @@
     <!-- IOS -->
     <item>
       <title>iOS Update Available</title>
-      <sparkle:version>1.0.41</sparkle:version>
+      <sparkle:version>1.0.39</sparkle:version>
       <description>
         Please update the iOS app to continue.
       </description>
