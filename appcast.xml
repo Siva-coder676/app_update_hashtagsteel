@@ -19,7 +19,7 @@
     <!-- IOS -->
     <item>
       <title>iOS Update Available</title>
-      <sparkle:version>1.0.38</sparkle:version>
+      <sparkle:version>1.0.41</sparkle:version>
       <description>
         Please update the iOS app to continue.
       </description>
